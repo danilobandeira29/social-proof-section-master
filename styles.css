@@ -135,6 +135,9 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: 
+    url("./images/bg-pattern-top-desktop.svg") no-repeat top left,
+    url("./images/bg-pattern-bottom-desktop.svg") no-repeat bottom right;
   }
 
   .container {
@@ -144,21 +147,18 @@ body {
 
   .container > div {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
   }
 
   .container main {
     display: flex;
     flex-direction: column;
-    max-width: 500px;
+    max-width: 700px;
   }
 
   .container main > h1,
   .container main > p {
     text-align: left;
-  }
-
-  .container section {
   }
 
   .cards-container {
@@ -169,7 +169,7 @@ body {
   .cards-container .card {
     flex-direction: row;
     align-items: center;
-    width: 500px;
+    width: 600px;
   }
 
   .cards-container .card:nth-child(1) {
