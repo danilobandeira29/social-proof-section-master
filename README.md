@@ -1,6 +1,6 @@
 ## Mobile
 <p align="center">
-  <img src="https://ik.imagekit.io/xfddek6eqk/master-section-mobile_0E5XsuDawl.png" alt="Social proof section master mobile">
+  <img src="https://ik.imagekit.io/xfddek6eqk/master-section-mobile_Ug2csAuqco.png" alt="Social proof section master mobile">
 </p>
 
 ## Desktop
